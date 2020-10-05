@@ -1,5 +1,8 @@
 # netpalm-servicenow-chronicles
-random gifs of servicenow integration
+random gifs of servicenow integration.
 
 simple example
 ![netpalm bdi](/netpalm_servicenow_self_service.gif)
+
+## notice
+i do not encourage the use of github as a gif repository
