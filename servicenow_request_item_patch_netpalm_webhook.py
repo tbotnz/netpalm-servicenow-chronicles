@@ -35,7 +35,7 @@ def run_webhook(payload=False):
                 pl["state"] = "4"
             else:
                 pl["state"] = "3"
-            pl["work_notes"] = payload["data"]["task_result"]
+            pl["work_notes"] = json.dumps(payload["data"]["task_result"], indent=3)
             # convert to json
             # Prepare requests data
             headers_val = config.default_webhook_headers
