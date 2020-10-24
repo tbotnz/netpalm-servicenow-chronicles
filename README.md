@@ -1,5 +1,5 @@
 # netpalm-servicenow-chronicles
-random gifs of servicenow integration.
+a #netpalm servicenow webhook and some random gifs to demonstrate some simple servicenow integration, leveraging the webhook
 
 simple example of basic command running with the example servicenow webhook
 ![netpalm whook](/netpalm_servicenow_self_service_whook.gif)
